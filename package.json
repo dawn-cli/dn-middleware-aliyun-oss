@@ -1,0 +1,17 @@
+{
+  "name": "dn-middleware-aliyun-oss",
+  "version": "1.0.0",
+  "description": "Middleware of dawn for publish static resource to aliyun oss",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "dn test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.4.4",
+    "ali-oss": "^4.10.1",
+    "co": "^4.6.0",
+    "globby": "^6.1.0"
+  }
+}
